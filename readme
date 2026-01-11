@@ -1,0 +1,51 @@
+# Jobify – Freelance Marketplace App UI
+
+Jobify is a modern freelance marketplace mobile app UI design that connects freelancers and clients through an intuitive, clean, and user-friendly experience.
+
+This repository contains the UI/UX design reference, screen flow, and Figma design link.
+
+---
+
+## 📱 App Screens Included
+
+- Onboarding Screen  
+- Discover Jobs  
+- Job Listing  
+- Profile Information  
+- Messaging Interface  
+- Proposal Submission  
+
+> Designed for a smooth freelance hiring experience.
+
+---
+
+## 🎨 Figma Design
+
+🔗 **Figma Link:**  
+https://www.figma.com/proto/9b5TB7YciYw5Ns7ZBM43bI/Jobify---freelance-martketplace?page-id=9%3A31&node-id=2026-512&p=f&viewport=-1080%2C370%2C0.68&t=brjoUi8xZqCOYVHQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=11%3A2
+
+---
+
+## 🧩 Key Features (UI Perspective)
+
+- Clean onboarding experience  
+- Job discovery with filters & tags  
+- Freelancer profile management  
+- In-app chat (Messages & Archived)  
+- Proposal upload with attachments  
+- Minimal, modern mobile-first design  
+
+---
+
+## 🛠️ Tools Used
+
+- Figma (UI/UX Design)
+- iOS-style mobile layout
+- Design system-based components
+
+---
+
+## 📂 Assets
+
+All exported screens and visuals are stored inside:
+
